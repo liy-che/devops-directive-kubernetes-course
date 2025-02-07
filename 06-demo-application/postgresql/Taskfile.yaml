@@ -1,7 +1,7 @@
 version: "3"
 
 vars:
-  IMAGE_REPO: localhost:5000/devops-directive-kubernetes-course-db-migrator
+  IMAGE_REPO: liyche/devops-directive-kubernetes-course-db-migrator
   IMAGE_TAG: foobarbaz
 
 tasks:
